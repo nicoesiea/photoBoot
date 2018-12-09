@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-		<title>30 ans Debo photo</title>
+		<title>WEB PAGE TITLE</title>
 		<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 		<style type="text/css">
 			#body{
